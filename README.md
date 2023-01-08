@@ -7,14 +7,14 @@ Hi there! My name is Samir, and I am a data analyst with extensive public sector
 
 ## Key Skills:
 
-####Technical
+#### Technical
 • Microsoft Excel (Advanced)
 • Tableau (Advanced)
 • PostgreSQL (Advanced)
 • Python (Advanced)
 • Machine Learning (Intermediate)
 • Power BI (Intermediate)
-####Soft Skills
+#### Soft Skills
 • Public speaking
 • Business Writing
 • Creative Critical Thinking
