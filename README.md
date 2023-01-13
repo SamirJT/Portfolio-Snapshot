@@ -19,3 +19,12 @@ Hi there! My name is Samir, and I am a data analyst with extensive public sector
 • Business Writing
 • Creative Critical Thinking
 • Time Management
+
+# Portfolio [Website​](https://samirtdata.wordpress.com/)
+5
+# About Me
+6
+Hi there! My name is Samir Thomas, and I am a Data Analyst based in the DMV (DC-Maryland-Virginia) area. I am experienced handling and processing sensitive data efficiently and ethically. My background includes a generous mix of public service and data processing. My previous experiences have led me to developing my skills in data analytics in order to better understand the meeting point of human decision making and technology, and how we can use technology to better the lives of those we affect. Clear and effective communication, creative critical thinking, & technical prowess are my core competencies.
+
+8
+## Key Skills:
